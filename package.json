@@ -1,0 +1,9 @@
+{
+    "name": "fiber-crash-uglify"
+  , "version": "0.0.1"
+  , "private": true
+  , "dependencies": {
+      "fibers": "0.6.9"
+    , "uglify-js": "2.2.3"
+  }
+}
